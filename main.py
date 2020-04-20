@@ -3,5 +3,5 @@ import cv2
 import imread
 # Save image in set directory
 # Read RGB image
-RGB = cv2.imread('nikhil.jpg');
+RGB = cv2.imread('pic.jpg');
 print(RGB[0])
